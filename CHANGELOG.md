@@ -1,5 +1,11 @@
 # changeset-sandbox
 
+## 0.2.1
+
+### Patch Changes
+
+- d92caff: Doc formatting
+
 ## 0.2.0
 
 ### Minor Changes
