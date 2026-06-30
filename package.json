@@ -1,0 +1,8 @@
+{
+    "name": "changeset-sandbox",
+    "private": true,
+    "workspaces": [
+        "frontend-service1",
+        "frontend-service2"
+    ]
+}
